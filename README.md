@@ -1,5 +1,5 @@
 # odin-recipes
-First project for the Odin Project.
+[Project](https://www.theodinproject.com/lessons/foundations-recipes) for [The Odin Project](https://www.theodinproject.com/).
 
 It's a simple recipe website consisting of a homepage and three recipe pages.
 
